@@ -1,10 +1,13 @@
 # Library-Management-System
 A simple library management system is created by using PYTHON programming language.
 
-Enter D: to display all the available books
-Enter B: to borrow books from the library
-Enter R: to return books from the library
-Enter E: to exit the library
+RUN the program and you are prompt with options whether to borrow, return or just see the available book 
+and you can do so by entering the following
+
+Enter D to display all the available books
+Enter B to borrow books from the library
+Enter R to return books from the library
+Enter E to exit the library
 
 All the books available will be stored in an external text file.
 And the information of user who borrows the book is also stored in an external text file.
